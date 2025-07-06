@@ -1,0 +1,21 @@
+*{margin: 0;
+    padding: 0;
+    color: aliceblue;
+}
+
+#navber{
+height: 60px;
+background-color: #0f1111;
+}
+button{
+    color: rgb(179, 80, 240);
+    background-color: chartreuse;
+}
+#logo{
+    color: chartreuse;
+    font-size: 25px;
+}
+ a {
+    margin-right: 150px;
+    text-decoration: none;
+}
